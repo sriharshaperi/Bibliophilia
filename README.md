@@ -32,7 +32,7 @@ Functionalities and Application features :
 
 2. The library would be empty initially. User may compose a new review and add to the library. All the reviews would be displayed on the home page as shown below
 
-![](web-view-HomePage)
+![](web-view-HomePage.png)
 
 3. User may review the posts completely by clicking on read more and would be redirected to a separate route from the home page.
 
@@ -40,16 +40,16 @@ Functionalities and Application features :
 
 4. User may also import stuff from other users library by searching for other user. All necessary validations have been implemented to ensure that the correct username is being retrieved and displaying error message if the user does not exist. The intresting feature is that there is an option called "keep this private" which lets the user keep his content private and restricts other users access on it. So when a user is trying to import content, only that content would be shown to that user which has public access. 
 
-![](web-view-ImportPage)
+![](web-view-ImportPage.png)
 
 5. This application has a feedback section in which a user may leave a feedback which is stored in the database and is being considered on suggessions for improvements.
 
-![](web-view-Feedback)
+![](web-view-Feedback.png)
 
 6. This application is mobile friendly. media queries have been used for scaling the components in correspondence with the screen resolution.
 
 ![](mobile-view-EntryPage)
 
-![](mobile-view-ContentPage)
+![](mobile-view-ContentPage.png)
 
 THANK YOU FOR SPARING YOUR VALUABLE TIME VIEWING THIS. PLEASE FEEL FREE TO GIVE ANY KIND OF SUGGESSIONS.
