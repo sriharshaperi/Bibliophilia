@@ -48,7 +48,7 @@ Functionalities and Application features :
 
 6. This application is mobile friendly. media queries have been used for scaling the components in correspondence with the screen resolution.
 
-![](mobile-view-EntryPage)
+![](mobile-view-EntryPage.png)
 
 ![](mobile-view-ContentPage.png)
 
